@@ -1,6 +1,5 @@
 (defpackage :day17
-  (:use :cl :alexandria) 
-  (:export :run))
+  (:use :cl :alexandria))
 
 (in-package :day17)
 
